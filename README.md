@@ -100,7 +100,7 @@ Model performance was evaluated using:
 
 I'm a passionate data science learner currently studying at **WorldQuant University**. I've completed multiple hands-on projects in data science and am eager to apply my skills to real-world problems. This Titanic project is the first step toward building a robust portfolio in AI and Data Science.
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ashley-mekolle-66136b256/) *(Replace with your actual link)*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ashley-mekolle-66136b256/)
 - 🌐 Portfolio: Coming soon
 
 ---
@@ -108,7 +108,7 @@ I'm a passionate data science learner currently studying at **WorldQuant Univers
 ## 📬 Contact
 
 **Ashley Mekolle**  
-📧 mekolleashleyam@gmail.com *(Replace with your actual email)*
+📧 mekolleashleyam@gmail.com 
 
 ---
 
